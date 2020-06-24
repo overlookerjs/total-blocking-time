@@ -1,0 +1,28 @@
+{
+  "name": "total-blocking-time",
+  "version": "1.0.0",
+  "description": "Measure total blocking time",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overlookerjs/total-blocking-time.git"
+  },
+  "keywords": [
+    "tbt",
+    "total",
+    "blocking",
+    "time"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overlookerjs/total-blocking-time/issues"
+  },
+  "homepage": "https://github.com/overlookerjs/total-blocking-time#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
